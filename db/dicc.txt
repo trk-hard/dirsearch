@@ -5852,6 +5852,10 @@ index.php
 index.phps
 index.php-bak
 index.php.bak
+index.php.git
+index.php.swp
+index.php.svn
+index.php.bash_history
 index.php/login/
 index.php3
 index.php4
